@@ -1,0 +1,13 @@
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+*.log
+*.pot
+*.pyc
+//*/__pycache__/
+//__pycache__/
+*/__pycache__/
+social_networking_app/settings.py
+env_new_accuknox/
+access_log
+nohup*
